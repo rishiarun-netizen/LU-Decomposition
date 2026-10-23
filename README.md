@@ -47,7 +47,9 @@ print(np.linalg.solve(A,B))
 ```
 
 ## Output:
-![lu decomposition]()
+![lu decomposition]() "C:\Users\acer\Pictures\Screenshots\Screenshot (15).png""C:\Users\acer\Pictures\Screenshots\Screenshot (16).png"
+                       
+
 
 
 ## Result:
